@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Movie</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="title">Title</string>
+    <string name="genres">Genres</string>
+    <string name="rating">8.6</string>
+    <string name="runtime">2h 3m</string>
+    <string name="txt_rating">Rating</string>
+    <string name="txt_runtime">Runtime</string>
+    <string name="year">2019</string>
+    <string name="txt_year">Year</string>
+    <string name="overview">Overview</string>
+</resources>
